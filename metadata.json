@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sistema CIOP Central - Luzparral",
+  "description": "Sistema interno de gestión de contingencias eléctricas de la empresa Luzparral para integrar, consolidar, visualizar y consultar información operacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
